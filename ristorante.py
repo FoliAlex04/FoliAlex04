@@ -1,6 +1,6 @@
 n_tavoli = input("di quanti coperti dispone il ristorante?")
 print("Perfetto, ristorante creato!")
-n_clienti = input("Quanti clienti abbiamo questa serata?")
+n_clienti = input("Quanti clienti abbiamo questa sera?")
 if n_clienti > n_tavoli:
     print("non possiamo, non abbiamo tutti quei posti!")
 else:
